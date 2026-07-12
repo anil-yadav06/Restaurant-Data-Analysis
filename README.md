@@ -8,6 +8,7 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 
 ---
 
+
 ## 🎯 Objectives
 
 - Perform data cleaning and preprocessing.
@@ -19,6 +20,37 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 - Generate business insights using data visualization.
 
 ---
+
+
+## 📂 Project Structure
+
+```text
+Restaurant-Data-Analysis/
+│
+├── Dataset.csv
+├── Restaurant_Data_Analysis.ipynb
+├── requirements.txt
+├── README.md
+│
+└── images/
+    ├── top_cuisines.png
+    ├── city_analysis.png
+    ├── price_range_distribution.png
+    ├── online_delivery_analysis.png
+    └── restaurant_chains.png
+```
+---
+
+## 🚀 Installation
+
+git clone https://github.com/anil-yadav06/Restaurant-Data-Analysis.git
+
+cd Restaurant-Data-Analysis
+
+pip install -r requirements.txt
+
+---
+
 
 ## 🛠️ Technologies Used
 
