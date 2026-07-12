@@ -222,6 +222,22 @@ The following preprocessing steps were performed:
 7. Restaurant popularity and ratings show a positive relationship.
 
 ---
+# 📷 Project Visualizations
+
+## Top Cuisines
+![Top Cuisines](images/top_cuisines.png)
+
+## City Analysis
+![City Analysis](images/city_analysis.png)
+
+## Price Range Distribution
+![Price Range](images/price_range_distribution.png)
+
+## Online Delivery Analysis
+![Online Delivery](images/online_delivery_analysis.png)
+
+## Restaurant Chains Analysis
+![Restaurant Chains](images/restaurant_chains.png)
 
 # 🚀 Future Improvements
 
@@ -243,6 +259,8 @@ The following preprocessing steps were performed:
 - Restaurant Chains Analysis
 
 ---
+# 📷 Project Visualizations
+
 
 # 👨‍💻 Author
 
